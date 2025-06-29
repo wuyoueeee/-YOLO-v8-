@@ -9,12 +9,8 @@
 </div>
 
 
-@[TOC]
 
-项目演示视频：
-
-[video(video-EkHlXNb4-1751206165154)(type-bilibili)(url-https://player.bilibili.com/player.html?aid=114766811045112)(image-https://i-blog.csdnimg.cn/img_convert/06b353dfcfbb6e007fa4fec5dab7414f.jpeg)(title-基于深度学习的车牌号识别系统(YOLO v8))]
-
+项目演示视频：https://www.bilibili.com/video/BV1rB3Fz2EcD/
 项目获取地址：
 [https://mbd.pub/o/bread/YZWUm51pZQ==](https://mbd.pub/o/bread/YZWUm51pZQ==)
 ## 🚀 项目介绍
